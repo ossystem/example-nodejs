@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Food",
+    "subCategories": [
+      {
+        "title": "Un Barbecue",
+        "imageSrc": "/images/Food/Un_Barbecue.jpg"
+      },
+      {
+        "title": "Un Brunch",
+        "imageSrc": "/images/Food/Un_Brunch.jpg"
+      },
+      {
+        "title": "Des Glaces",
+        "imageSrc": "/images/Food/Des_Glaces.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Going out",
+    "subCategories": [
+      {
+        "title": "Movie Theater",
+        "imageSrc": "/images/Going_out/Movie_Theater.jpg"
+      },
+      {
+        "title": "Musee",
+        "imageSrc": "/images/Going_out/Musee.jpg"
+      },
+      {
+        "title": "Un concert",
+        "imageSrc": "/images/Going_out/Un_concert.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Leisures",
+    "subCategories": [
+      {
+        "title": "Aller Pecher",
+        "imageSrc": "/images/Leisures/Aller_Pecher.jpg"
+      },
+      {
+        "title": "Beach",
+        "imageSrc": "/images/Leisures/Beach.jpeg"
+      },
+      {
+        "title": "Jouer de la musique",
+        "imageSrc": "/images/Leisures/Jouer_de_la_musique.jpg"
+      },
+      {
+        "title": "Poker",
+        "imageSrc": "/images/Leisures/Poker.jpg"
+      },
+      {
+        "title": "Voir le match",
+        "imageSrc": "/images/Leisures/Voir_le_match.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "subCategories": [
+      {
+        "title": "Aller courir",
+        "imageSrc": "/images/Sports/Aller_courir.jpg"
+      },
+      {
+        "title": "Boxint",
+        "imageSrc": "/images/Sports/boxint.jpg"
+      },
+      {
+        "title": "Climbing",
+        "imageSrc": "/images/Sports/Climbing.jpg"
+      },
+      {
+        "title": "Cycling",
+        "imageSrc": "/images/Sports/Cycling.jpeg"
+      },
+      {
+        "title": "Faire du Ski-Snowboard",
+        "imageSrc": "/images/Sports/Faire_du_Ski-Snowboard.jpg"
+      },
+      {
+        "title": "Faire du Surf",
+        "imageSrc": "/images/Sports/Faire_du_Surf.jpg"
+      },
+      {
+        "title": "Faire du vélo",
+        "imageSrc": "/images/Sports/Faire_du_vélo.jpg"
+      },
+      {
+        "title": "Faire du Yoga",
+        "imageSrc": "/images/Sports/Faire_du_Yoga.jpg"
+      },
+      {
+        "title": "Faire un basket",
+        "imageSrc": "/images/Sports/Faire_un_basket.jpg"
+      },
+      {
+        "title": "Football",
+        "imageSrc": "/images/Sports/Football.jpg"
+      },
+      {
+        "title": "Golf",
+        "imageSrc": "/images/Sports/Golf.jpg"
+      },
+      {
+        "title": "Jouer Au foot",
+        "imageSrc": "/images/Sports/Jouer_Au_foot.jpg"
+      },
+      {
+        "title": "Playing Footbal",
+        "imageSrc": "/images/Sports/Playing_Footbal.jpg"
+      },
+      {
+        "title": "Rugby",
+        "imageSrc": "/images/Sports/Rugby.jpg"
+      },
+      {
+        "title": "Running",
+        "imageSrc": "/images/Sports/Running.jpg"
+      },
+      {
+        "title": "Skatepark",
+        "imageSrc": "/images/Sports/skatepark.jpg"
+      },
+      {
+        "title": "Swimming Pool",
+        "imageSrc": "/images/Sports/Swimming_Pool.jpg"
+      },
+      {
+        "title": "Tennis",
+        "imageSrc": "/images/Sports/Tennis.jpg"
+      },
+      {
+        "title": "Un basket",
+        "imageSrc": "/images/Sports/Un_basket.jpeg"
+      },
+      {
+        "title": "Un Rugby",
+        "imageSrc": "/images/Sports/Un_Rugby.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Xperiences",
+    "subCategories": [
+      {
+        "title": "(Faire de) 'escalade",
+        "imageSrc": "/images/Xperiences/(Faire de)_'escalade.jpg"
+      },
+      {
+        "title": "Paintball",
+        "imageSrc": "/images/Xperiences/paintball.jpg"
+      },
+      {
+        "title": "Un parc d'attraction",
+        "imageSrc": "/images/Xperiences/Un_parc_d'attraction.jpg"
+      },
+      {
+        "title": "Un road Trip",
+        "imageSrc": "/images/Xperiences/Un_road_Trip.jpg"
+      },
+      {
+        "title": "Un saut en parachute",
+        "imageSrc": "/images/Xperiences/Un_saut_en_parachute.jpg"
+      }
+    ]
+  }
+]

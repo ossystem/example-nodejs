@@ -1,0 +1,11 @@
+{
+  "development": {
+    "connection": "mongodb://localhost/dev"
+  },
+  "production": {
+    "connection": "mongodb://localhost/shoki"
+  },
+  "test": {
+    "connection": "mongodb://localhost/test"
+  }
+}

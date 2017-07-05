@@ -1,0 +1,52 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://bitbucket.org/dGudko/shoki",
+  "scripts": {
+    "test": "mocha --reporter spec ./tests --recursive",
+    "server": "NODE_ENV=development node src/server.js",
+    "start": "NODE_ENV=production pm2 start src/server.js",
+    "db-init": "node src/migration-initial.js",
+    "apiDoc": "./node_modules/apidoc/bin/apidoc -f 'src/.*\\.js'"
+  },
+  "apidoc": {
+    "name": "Shoki",
+    "title": "Shoki api documentation",
+    "description": "Description of all routes api"
+  },
+  "author": "OSSystem",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-alpha.1",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-ws": "^2.0.0",
+    "jimp": "^0.2.27",
+    "lodash": "^4.16.6",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.3",
+    "multer": "^1.2.0",
+    "nconf": "^0.8.4",
+    "passport": "^0.3.2",
+    "passport-http-bearer": "^1.0.1",
+    "randomstring": "^1.1.5",
+    "token-generator": "^1.0.0",
+    "twilio": "^2.11.0",
+    "underscore": "^1.8.3",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {
+    "apidoc": "^0.16.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "morgan": "^1.7.0",
+    "supertest": "^2.0.1",
+    "supertest-as-promised": "^4.0.1"
+  }
+}
